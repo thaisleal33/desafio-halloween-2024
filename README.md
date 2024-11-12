@@ -1,5 +1,5 @@
 
-# Desafio de Halloween 2024
+# 🎃 Desafio de Halloween 2024 🎃 
 
  **O desafio:** Filmes de terror (ou com a temática sombria).
 
